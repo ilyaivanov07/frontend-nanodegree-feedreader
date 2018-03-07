@@ -48,7 +48,12 @@ Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/pr
 21. Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
 
 
-#https://review.udacity.com/#!/rubrics/18/view
+# How to Run:  
+
+Once project is cloned to your machine, open the file index.html in your web browser and it will be displayed. You can see the different test suites and their test results. You can also enter the jasmine/spec/feedreader.js and try your hand at writing test suites. Refresh the browser to see if the suites pass or fail.
+
+
+
 
 
 
